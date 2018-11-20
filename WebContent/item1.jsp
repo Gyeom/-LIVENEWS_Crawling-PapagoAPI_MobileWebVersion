@@ -277,7 +277,7 @@ p {
 
 	<br>
 	<button id="jsonConvertStringSend" type="button"
-		style="display: block; margin: 0 auto; font-weight:bold">▼ 번역하기 </button>
+		style="display: block; border-radius: 12px; margin: 0 auto; font-weight:bold">▼ 번역하기 </button>
 	<br>
 	<div style="display: flex; justify-content: center;">
 		<textarea id="result_text" class="form-control" name="content"
